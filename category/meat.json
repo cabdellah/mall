@@ -1,0 +1,29 @@
+[
+  { 
+    "id":41,
+    "title":"لحم البقر الغنم و المعز والدواجن و الأسماك",
+    "oldpri": 219.99,
+    "price":199.99,
+    "description":"تجد جميع السلع بأسعار منخفضة و جودة عالية ، لحم البقر الغنم و المعز والدواجن و الأسماك",
+    "category":"meat",
+    "image":"https://raw.githubusercontent.com/cabdellah/mall/main/img/41.jpg"
+  },
+  { 
+    "id":42,
+    "title":"لحم البقر الغنم و المعز والدواجن و الأسماك",
+    "oldpri": 219.99,
+    "price":199.99,
+    "description":"تجد جميع السلع بأسعار منخفضة و جودة عالية ، لحم البقر الغنم و المعز والدواجن و الأسماك",
+    "category":"meat",
+    "image":"https://raw.githubusercontent.com/cabdellah/mall/main/img/42.jpg"
+  },
+  { 
+    "id":43,
+    "title":"لحم البقر الغنم و المعز والدواجن و الأسماك",
+    "oldpri": 219.99,
+    "price":199.99,
+    "description":"تجد جميع السلع بأسعار منخفضة و جودة عالية ، لحم البقر الغنم و المعز والدواجن و الأسماك",
+    "category":"meat",
+    "image":"https://raw.githubusercontent.com/cabdellah/mall/main/img/43.jpg"
+  }
+]

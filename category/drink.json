@@ -1,0 +1,29 @@
+[
+  { 
+    "id":1,
+    "title":"مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
+    "oldpri": 119.99,
+    "price":99.9,
+    "description":"تجد جميع السلع بأسعار منخفضة و جودة عالية ، مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
+    "category":"drink",
+    "image":"https://raw.githubusercontent.com/cabdellah/mall/main/img/1.jpg"
+  },
+  { 
+    "id":2,
+    "title":"مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
+    "oldpri": 119.99,
+    "price":99.9,
+    "description":"تجد جميع السلع بأسعار منخفضة و جودة عالية ، مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
+    "category":"drink",
+    "image":"https://raw.githubusercontent.com/cabdellah/mall/main/img/2.jpg"
+  },
+  { 
+    "id":3,
+    "title":"مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
+    "oldpri": 119.99,
+    "price":99.9,
+    "description":"تجد جميع السلع بأسعار منخفضة و جودة عالية ، مياه و مشروبات غازية و عصائر و مشروبات الطاقة",
+    "category":"drink",
+    "image":"https://raw.githubusercontent.com/cabdellah/mall/main/img/3.jpg"
+  }
+]

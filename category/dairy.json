@@ -1,0 +1,29 @@
+[
+  { 
+    "id":11,
+    "title":"الجبن والبيض والحليب واللبن والزبدة",
+    "oldpri": 89.99,
+    "price":59.9,
+    "description":"تجد جميع السلع بأسعار منخفضة و جودة عالية ، الجبن والبيض والحليب واللبن والزبدة",
+    "category":"dairy",
+    "image":"https://raw.githubusercontent.com/cabdellah/mall/main/img/11.jpg"
+  },
+  { 
+    "id":12,
+    "title":"الجبن والبيض والحليب واللبن والزبدة",
+    "oldpri": 89.99,
+    "price":59.9,
+    "description":"تجد جميع السلع بأسعار منخفضة و جودة عالية ، الجبن والبيض والحليب واللبن والزبدة",
+    "category":"dairy",
+    "image":"https://raw.githubusercontent.com/cabdellah/mall/main/img/12.jpg"
+  },
+  { 
+    "id":13,
+    "title":"الجبن والبيض والحليب واللبن والزبدة",
+    "oldpri": 89.99,
+    "price":59.9,
+    "description":"تجد جميع السلع بأسعار منخفضة و جودة عالية ، الجبن والبيض والحليب واللبن والزبدة",
+    "category":"dairy",
+    "image":"https://raw.githubusercontent.com/cabdellah/mall/main/img/13.jpg"
+  }
+]
